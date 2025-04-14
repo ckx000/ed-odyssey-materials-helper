@@ -1,7 +1,7 @@
-messageKey,,en,de,es,fr,pt,ru
-tab.powerplay.unlockables,Modules,,,Módulos,,,Модули
-tab.powerplay.current.reward,Current reward {0}%,,,Recompensa actual {0}%,,,Награда {0}%
-tab.powerplay.current.reward.unlocked,Unlocked,,,Desbloqueado,,,Разблокировано
-tab.powerplay.current.reward.locked,Locked,,,Bloqueado,,,Заблокировано
-tab.powerplay.rank,Rank {0},,,Rango {0},,,Ранг {0}
-tab.powerplay.merits,{0}/{1} Merits,,,{0}/{1} Méritos,,,{0}/{1} Поощрений
+messageKey,,en,de,es,fr,pt,ru,zh_CN
+tab.powerplay.unlockables,Modules,,,Módulos,,,Модули,Modules
+tab.powerplay.current.reward,Current reward {0}%,,,Recompensa actual {0}%,,,Награда {0}%,Current reward {0}%
+tab.powerplay.current.reward.unlocked,Unlocked,,,Desbloqueado,,,Разблокировано,Unlocked
+tab.powerplay.current.reward.locked,Locked,,,Bloqueado,,,Заблокировано,Locked
+tab.powerplay.rank,Rank {0},,,Rango {0},,,Ранг {0},Rank {0}
+tab.powerplay.merits,{0}/{1} Merits,,,{0}/{1} Méritos,,,{0}/{1} Поощрений,{0}/{1} Merits

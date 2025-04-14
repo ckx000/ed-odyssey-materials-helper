@@ -14,7 +14,8 @@ public enum ApplicationLocale {
     FRENCH(Locale.FRENCH, "fra"),
     PORTUGUESE(Locale.forLanguageTag("pt"), "por"),
     SPANISH(Locale.forLanguageTag("es"), "spa"),
-    RUSSIAN(Locale.forLanguageTag("ru"), "rus");
+    RUSSIAN(Locale.forLanguageTag("ru"), "rus"),
+    CHINESE_SIMPLIFIED(Locale.SIMPLIFIED_CHINESE, "zho"); // add chinese_simplified
 
     private final Locale locale;
     private final String iso6392B;

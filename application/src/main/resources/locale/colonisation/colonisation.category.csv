@@ -1,7 +1,7 @@
-messageKey,,en,de,es,fr,pt,ru
-colonisation.category.star_port,Star port,,,Puerto Espacial,,,Космопорт
-colonisation.category.outpost,Outpost,,,Base Espacial,,,Станция
-colonisation.category.installation,Installation,,,Instalación,,,Установка
-colonisation.category.planetary_port,Planetary port,,,Puerto Planetario,,,Планетарный порт
-colonisation.category.settlement,Settlement,,,Asentamiento,,,Поселение
-colonisation.category.hub,Hub,,,Centro,,,Центр
+messageKey,,en,de,es,fr,pt,ru,zh_CN
+colonisation.category.star_port,Star port,,,Puerto Espacial,,,Космопорт,Star port
+colonisation.category.outpost,Outpost,,,Base Espacial,,,Станция,Outpost
+colonisation.category.installation,Installation,,,Instalación,,,Установка,Installation
+colonisation.category.planetary_port,Planetary port,,,Puerto Planetario,,,Планетарный порт,Planetary port
+colonisation.category.settlement,Settlement,,,Asentamiento,,,Поселение,Settlement
+colonisation.category.hub,Hub,,,Centro,,,Центр,Hub
